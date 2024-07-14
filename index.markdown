@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![image tooltip here](/assets/contactcard.png)
+![image tooltip here](/ievas_prakse/assets/contactcard.png)
