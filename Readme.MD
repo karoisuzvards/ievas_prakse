@@ -2,8 +2,8 @@ Website of Ievas prakse:
 
 Local:
 
-http://localhost:4000/ievas_prakse
+http://localhost:4000/
 
 Github:
 
-https://karoisuzvards.github.io/ievas_prakse/
+https://ievasprakse.lv
