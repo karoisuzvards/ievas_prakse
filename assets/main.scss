@@ -9,10 +9,6 @@
     vertical-align: bottom;
 }
 
-.home img {
-    transform: scale(1.12);
-}
-
 // uncomment when proper footer stuff appears
 .site-footer .footer-heading {
     display: none;
@@ -20,4 +16,28 @@
 
 .site-footer .contact-list {
     display: none;
+}
+
+$pink-color: rgb(255,224,232);
+
+#contact-card .service {
+    & p {
+        margin-bottom: 0;
+    }
+
+    & h2 {
+        margin-bottom: 0;
+        font-weight: 800;
+    }
+}
+
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 4rem;
+}
+
+body {
+    background-color: $pink-color
 }
